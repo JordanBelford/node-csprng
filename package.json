@@ -1,12 +1,10 @@
 {
-    "name": "csprng",
+    "name": "@waitr/csprng",
     "description": "Secure random numbers of any size in any base",
     "homepage": "http://github.com/jcoglan/node-csprng",
     "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
     "keywords": ["crypto", "math", "random", "security"],
-    "license": "MIT"
-
-        ,
+    "license": "MIT",
     "version": "0.1.1",
     "engines": {
         "node": ">=0.6.0"
