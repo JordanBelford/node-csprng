@@ -1,5 +1,5 @@
 {
-    "name": "@waitr/csprng",
+    "name": "csprng",
     "description": "Secure random numbers of any size in any base",
     "homepage": "http://github.com/jcoglan/node-csprng",
     "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
